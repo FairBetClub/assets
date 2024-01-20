@@ -1,0 +1,37 @@
+{
+    "name": "FairERC20",
+    "type": "ERC20",
+    "symbol": "ferc",
+    "decimals": 18,
+    "website": "https://www.erc20.cash/",
+    "description": "We've implemented ordinals BRC-20 in Ethereum(EVM) smart contract to make fairlaunch better. Free mint your favourite 4 characters fERC-20 tokens and have fun.",
+    "explorer": "https://etherscan.io/token/0x2ecba91da63c29ea80fbe7b52632ca2d1f8e5be0",
+    "status": "active",
+    "id": "0x2eCBa91da63C29EA80Fbe7b52632CA2d1F8e5Be0",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Ferc20Global"
+        },
+        {
+            "name": "github",
+            "url": "https://gist.github.com/jackygu2006/39dbc920703bcc46c8aa0fb2a071f720"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ferc/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/fairerc20"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/ggDAAu6zKe"
+        }
+    ],
+    "tags": [
+        "brc20",
+        "social"
+    ]
+}
