@@ -1,0 +1,24 @@
+{
+    "name": "ABCcoin",
+    "type": "ERC20",
+    "symbol": "ABC",
+    "decimals": 18,
+    "website": "http://www.abcmint.org/",
+    "description": "The abcmint is hoping to use post-quantum signature technology in software system, and prove the security and usability of post-quantum signature technology through long-term operation.",
+    "explorer": "https://etherscan.io/token/0x43009ed5f36011f14066b452d6ea207a43227548",
+    "status": "active",
+    "id": "0x43009ed5f36011f14066b452d6ea207a43227548",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/ABCmintXYZ"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/abcmint/abcmint"
+        }
+    ],
+    "tags": [
+        "security"
+    ]
+}
