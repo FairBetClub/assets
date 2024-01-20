@@ -1,0 +1,33 @@
+{
+    "name": "LotusWalletCommunity",
+    "type": "BEP20",
+    "symbol": "LWT",
+    "decimals": 18,
+    "website": "https://www.lotuswallet.org",
+    "description": "LotusWallet is a comprehensive WEB3 ecological portal that integrates digital wallet, DAPP Market and cipher information management.",
+    "explorer": "https://bscscan.com/token/0x93d87a1dcb504ad5be54b9194496713eb99b9953",
+    "status": "active",
+    "id": "0x93d87a1dcb504aD5BE54B9194496713Eb99b9953",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LotusWallet"
+        },
+        {
+            "name": "github",
+            "url": "https://twitter.com/LotusWallet"
+        },
+        {
+            "name": "medium",
+            "url": "https://twitter.com/LotusWallet"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://drive.google.com/file/d/1w_oracDF6q707nIpfeH2YdV5K6rPdaJu/view?usp=sharing"
+        }
+    ],
+    "tags": [
+        "wallet",
+        "security"
+    ]
+}
