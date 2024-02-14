@@ -1,0 +1,30 @@
+{
+    "name": "FairBet",
+    "type": "ERC20",
+    "symbol": "fbet",
+    "decimals": 18,
+    "website": "https://www.fairbet.social/",
+    "description": "A fair, decentralized social entertainment platform. ",
+    "explorer": "https://etherscan.io/token/0x6F6A40a7149b4b4F6568c46A0C5A98927A00E9F1",
+    "status": "active",
+    "id": "0x6F6A40a7149b4b4F6568c46A0C5A98927A00E9F1",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FairBetClub"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/FairBetClub/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/UsVNfk36VK"
+        }
+    ],
+    "tags": [
+        "fbet",
+        "ferc",
+        "social"
+    ]
+}
